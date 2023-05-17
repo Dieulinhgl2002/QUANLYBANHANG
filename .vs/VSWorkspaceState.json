@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QLBanHangDB",
+    "\\QLBanHangDB\\BusinessLayer",
+    "\\QLBanHangDB\\DataLayer",
+    "\\QLBanHangDB\\Forms"
+  ],
+  "SelectedNode": "\\QLBanHangDB\\DataLayer\\SqlHelper.cs",
+  "PreviewInSolutionExplorer": false
+}
